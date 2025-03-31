@@ -1,6 +1,6 @@
 # Portfolio 
 Hello :wave:! Welcome to my portfolio. Here, I’ve gathered a selection of projects developed both during my scientific research and in my spare time. The portfolio is divided into four main sections:
-## <b>Scientific computing</b> :microscope: :
+## <b>Scientific Computing Projects</b> :microscope: :
 This section includes projects completed as part of scientific exploration, though not intended for publication. They showcase my programming skills and proficiency in Python, especially with libraries like PyTorch and NumPy.
 - https://github.com/JedrekSt/Quantum_Random_Walks
 - https://github.com/JedrekSt/PhaseTransitions/tree/main
