@@ -13,3 +13,4 @@ A collection of machine learning projects, primarily focused on self-implemented
 - https://github.com/JedrekSt/MachineLearning_and_AI_projects
 ## <b> LeetCode Solutions </b> :jigsaw: :
 In this section, you’ll find my solutions to various algorithmic challenges on LeetCode, primarily written in Java. These demonstrate my skills in algorithms, data structures, and problem-solving under time constraints.
+- https://github.com/JedrekSt/LeetCodeSolutions
