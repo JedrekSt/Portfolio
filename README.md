@@ -8,7 +8,7 @@ This section includes projects completed as part of scientific exploration, thou
 ## <b> Scientific Publications </b> :bookmark_tabs: :
 Here, I present research code and computational tools developed during the publication process. These projects reflect the rigorous analytical work behind my scientific papers.
 - <a href = "https://github.com/JedrekSt/Quantum-Synchronizing-Words-Resetting-and-Preparing-Qutrit-States" target = "_blank"> Quantum Synchronizing Words Resetting and Preparing Qutrit States </a>
-- <a href = "https://github.com/JedrekSt/Quantum_Synchronization_Protocol" target = "_blank"> Quantum Resetting Protocols Based on Synchronising Words </a>
+- <a href = "https://github.com/JedrekSt/Quantum_Synchronization_Protocol" target = "_blank"> Quantum Resetting Protocols Based on Synchronizing Words </a>
 ## <b> Artificial Intelligence and Machine Learning </b> :robot: :
 A collection of machine learning projects, primarily focused on self-implemented algorithms. These projects highlight my deep understanding of ML theory as well as my ability to translate that theory into clean, functional code.
 - <a href = "https://github.com/JedrekSt/MachineLearning_and_AI_projects" target = "_blank"> Machine Learning and AI </a>
